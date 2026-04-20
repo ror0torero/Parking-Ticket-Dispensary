@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino/AVR build artifacts
+*.elf
+*.hex
+*.eep
+*.map
+*.lst
+*.o
+*.a
+*.d
+*.bin
+
+# Common build output folders
+build/
+out/
